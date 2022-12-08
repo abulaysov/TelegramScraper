@@ -1,0 +1,7 @@
+.env
+my_account.session
+data.db
+.idea
+__pycache__
+media
+
